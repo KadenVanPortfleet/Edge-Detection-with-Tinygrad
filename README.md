@@ -6,6 +6,6 @@ Input:
 
 
 Output:
-![image](https://github.com/KadenVanPortfleet/Edge-Detection-with-Tinygrad/assets/130770634/5ac5c58c-1ef5-42f2-9d40-298c67a32efe)
+![image](https://github.com/KadenVanPortfleet/Edge-Detection-with-Tinygrad/assets/130770634/a784d042-c5ae-42f2-948c-d245ef3cb8ae)
 
 I do not own this image and it is purely for example.
